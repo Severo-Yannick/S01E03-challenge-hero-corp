@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(211, 211, 211);
+}
+
+main {
+  background-color: #fff;
+  width: 800px;
+  margin: 10px auto;
+  border: 0.1rem solid;
+}

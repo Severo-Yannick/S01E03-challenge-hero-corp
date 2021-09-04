@@ -8,3 +8,49 @@ main {
   margin: 10px auto;
   border: 0.1rem solid;
 }
+.presentation {
+  background-color: rgb(211, 211, 211);
+  width: 600px;
+  margin: 15px auto;
+  padding: 30px 15px;
+}
+.title-presentation {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.img-hc-logo {
+  display: block;
+  margin: 20px auto;
+  width: 100px;
+}
+span {
+  font-weight: bold;
+}
+.dash{
+  border: 0.8px solid black;
+  width: 565px;
+  height: 0px;
+  margin: 10px auto;
+}
+.para1 {
+  text-align: center;
+  font-style: italic;
+}
+.title-synopsis {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px;
+  color: rgb(139, 0, 0);
+}
+p {
+  margin: 10px;
+}
+footer {
+  background-color: rgb(211, 211, 211);
+  text-align: center;
+  margin: 10px;
+  padding-top: 25px;
+  padding-bottom: 60px;
+}

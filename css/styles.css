@@ -8,6 +8,29 @@ main {
   margin: 10px auto;
   border: 0.1rem solid;
 }
+.logo-principal {
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+}
+.header-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.header-subtitle {
+  font-size: 1rem;
+  padding: 5px 10px;
+  width: 100px;
+  background-color: black;
+  color: #fff;
+}
+.dash-red { 
+  border: 0.8px solid rgb(139, 0, 0);
+  height: 0px;
+  margin: 10px 10px auto;
+}
 .presentation {
   background-color: rgb(211, 211, 211);
   width: 600px;
@@ -27,7 +50,7 @@ main {
 span {
   font-weight: bold;
 }
-.dash{
+.dash-black {
   border: 0.8px solid black;
   width: 565px;
   height: 0px;
